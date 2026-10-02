@@ -25,8 +25,11 @@ backtest/
 | Airbus_Moderado | Airbus | E1 + E3 | E1 0,4% / E3 1,2% | 8% / 6% | C22 (degrau A) |
 | Airbus_Agressivo | Airbus | E1 + E3 | E1 0,4% / E3 1,8% | 12% / 9% | C23 (degrau B) |
 | Concorde_Normal | Concorde_RF | E1 + E2 + E3 + E4 | 0,8% / 0,8% / 1,2% / 2,0% | 8% / 6% | C1 (1 ano) e C4 (2 anos) |
+| Airbus_Moderado_E1-0.6 | Airbus | E1 + E3 | E1 **0,6%** / E3 1,2% | 8% / 6% | não testado (teste de mão na E1) |
+| Airbus_Moderado_E1-0.8 | Airbus | E1 + E3 | E1 **0,8%** / E3 1,2% | 8% / 6% | C11 (2 anos) e C14 (1 ano) |
+| Airbus_Moderado_E1-1.2 | Airbus | E1 + E3 | E1 **1,2%** / E3 1,2% | 8% / 6% | não testado (teste de mão na E1) |
 
-Os 4 presets têm os 180 inputs completos. Os demais valores são os padrões do código, com `Panel_Mostrar=false` e `News_Enable=true`, como nos testes da campanha.
+Os presets têm os 180 inputs completos. Os demais valores são os padrões do código, com `Panel_Mostrar=false` e `News_Enable=true`, como nos testes da campanha.
 
 ## Passo a passo
 
